@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Hi, I'm Ruru — a student and developer who enjoys doing random shit.
+Hi, I'm Tung Tung Tung Sahur who loves Sahuring. I'm a beginner at Python,Cpp and currently learning JS
